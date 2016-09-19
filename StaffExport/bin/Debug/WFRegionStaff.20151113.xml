@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wfstaff xmlns="link placeholder">
+  <psStaff>
+    <identity>
+      <name>
+        <firstName>Susan</firstName>
+        <lastName>Nelms</lastName>
+      </name>
+    </identity>
+    <access>
+      <positionTitle>Executive Director</positionTitle>
+      <phoneNumber>(850)473-0939</phoneNumber>
+      <phoneNumberIndicator>Yes</phoneNumberIndicator>
+      <email>snelms@careersourceescarosa.com</email>
+      <WFREGID>01</WFREGID>
+    </access>
+    <delete>0</delete>
+  </psStaff>
+  <psStaff>
+    <identity>
+      <name>
+        <firstName>Linda</firstName>
+        <lastName>Sumblin</lastName>
+      </name>
+    </identity>
+    <access>
+      <positionTitle>Executive Director</positionTitle>
+      <phoneNumber>(850)651-2315</phoneNumber>
+      <phoneNumberIndicator>Yes</phoneNumberIndicator>
+      <email>lsumblin@careersourceow.com</email>
+      <WFREGID>02</WFREGID>
+    </access>
+    <delete>0</delete>
+  </psStaff>
+  <psStaff>
+    <identity>
+      <name>
+        <firstName>Richard</firstName>
+        <lastName>Williams</lastName>
+      </name>
+    </identity>
+    <access>
+      <positionTitle>Executive Director</positionTitle>
+      <phoneNumber>(850)633-2731</phoneNumber>
+      <phoneNumberIndicator>Yes</phoneNumberIndicator>
+      <email>richard.williams@careersourcechiploa.com</email>
+      <WFREGID>03</WFREGID>
+    </access>
+    <delete>0</delete>
+  </psStaff>
+</wfstaff>

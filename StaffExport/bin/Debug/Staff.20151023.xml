@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<psStaffType xmlns="http://specification.sifassociation.org/Implementation/na/3.2/html/CEDS/PostSecondary/PostSecondary_psStaffType.html">
+  <psStaff>
+    <identity>
+      <name>
+        <firstName>Michael</firstName>
+        <lastName>Dieckmann</lastName>
+      </name>
+    </identity>
+    <access>
+      <positionTitle>Chief IT Strategist</positionTitle>
+      <number>(850)474-2558</number>
+      <phoneNumberIndicator>Yes</phoneNumberIndicator>
+      <email>mdieckma@uwf.edu</email>
+      <IPEDSID>138354</IPEDSID>
+    </access>
+    <delete>0</delete>
+  </psStaff>
+  <psStaff>
+    <identity>
+      <name>
+        <firstName>Brandon</firstName>
+        <lastName>Lumsden</lastName>
+      </name>
+    </identity>
+    <access>
+      <positionTitle>Chief Database Programmer</positionTitle>
+      <number>(850)474-2000</number>
+      <phoneNumberIndicator>Yes</phoneNumberIndicator>
+      <email>blumsden09@uwf.edu</email>
+      <IPEDSID>137096</IPEDSID>
+    </access>
+    <delete>0</delete>
+  </psStaff>
+  <psStaff>
+    <identity>
+      <name>
+        <firstName>Lance</firstName>
+        <lastName>Taylor</lastName>
+      </name>
+    </identity>
+    <access>
+      <positionTitle>Retired CIO</positionTitle>
+      <number>(904)101-0101</number>
+      <phoneNumberIndicator>Yes</phoneNumberIndicator>
+      <email>ltaylor@unf.edu</email>
+      <IPEDSID>136172</IPEDSID>
+    </access>
+    <delete>0</delete>
+  </psStaff>
+</psStaffType>

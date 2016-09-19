@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wfstaff xmlns="link placeholder">
+  <psStaff>
+    <identity>
+      <name>
+        <firstName>Kenny</firstName>
+        <lastName>Griffin</lastName>
+      </name>
+    </identity>
+    <access>
+      <positionTitle>Center Manager</positionTitle>
+      <phoneNumber>(850)633-2737</phoneNumber>
+      <phoneNumberIndicator>Yes</phoneNumberIndicator>
+      <email>kenny.griffin@careersourcechiploa.com</email>
+      <WFID>000001</WFID>
+    </access>
+    <delete>0</delete>
+  </psStaff>
+  <psStaff>
+    <identity>
+      <name>
+        <firstName>Renee</firstName>
+        <lastName>Day</lastName>
+      </name>
+    </identity>
+    <access>
+      <positionTitle>Customer Service Professional</positionTitle>
+      <phoneNumber>(850)845-0738</phoneNumber>
+      <phoneNumberIndicator>Yes</phoneNumberIndicator>
+      <email>renee.day@careersourcechiploa.com</email>
+      <WFID>000002</WFID>
+    </access>
+    <delete>0</delete>
+  </psStaff>
+  <psStaff>
+    <identity>
+      <name>
+        <firstName>Joyce</firstName>
+        <lastName>Bramlage</lastName>
+      </name>
+    </identity>
+    <access>
+      <positionTitle>Success Coach - WTP</positionTitle>
+      <phoneNumber>x. 2301</phoneNumber>
+      <phoneNumberIndicator>Yes</phoneNumberIndicator>
+      <email>joyce.bramlage@careersourcechiploa.com</email>
+      <WFID>000003</WFID>
+    </access>
+    <delete>0</delete>
+  </psStaff>
+</wfstaff>
